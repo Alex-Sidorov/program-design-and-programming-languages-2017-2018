@@ -1,0 +1,5 @@
+﻿  library.cpp
+e:\проекты vs\vs 15\л.р.9\л.р.9\library.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+e:\проекты vs\vs 15\л.р.9\л.р.9\library.cpp(241): warning C4715: menu_switch: значение возвращается не при всех путях выполнения
+  Л.Р.9.vcxproj -> E:\Проекты VS\VS 15\Л.Р.9\Debug\Л.Р.9.exe
+  Л.Р.9.vcxproj -> E:\Проекты VS\VS 15\Л.Р.9\Debug\Л.Р.9.pdb (Full PDB)

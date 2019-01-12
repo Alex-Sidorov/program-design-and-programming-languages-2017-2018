@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\проекты vs\vs 15\л.р. 4\л.р. 4\main.cpp(5): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Л.Р. 4.vcxproj -> E:\Проекты VS\VS 15\Л.Р. 4\Debug\Л.Р. 4.exe
+  Л.Р. 4.vcxproj -> E:\Проекты VS\VS 15\Л.Р. 4\Debug\Л.Р. 4.pdb (Full PDB)
